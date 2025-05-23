@@ -1,21 +1,21 @@
 # Swarm Robotics Simulation
 
-A Python-based simulation for decentralized swarm robotics, focusing on multi-agent systems and machine learning integration.
+python-based sim focusing on reinforcement learning
 
 ## Core Functionality
 
-- **Decentralized Control**: Agents operate based on local rules, without a central coordinator.
-- **Emergent Behavior**: Complex group patterns arise from simple agent interactions.
-- **Real-time Visualization**: Interactive simulation with adjustable parameters.
-- **Machine Learning**: Utilizes Deep Q-Learning for tasks like strategic obstacle placement.
+- **decentralized control**: Agents operate based on local rules, without a central coordinator.
+- **emergent behaviour**: Complex group patterns arise from simple agent interactions.
+- **real-time visualization**: Interactive simulation with adjustable parameters.
+- **mL integration**: Utilizes deep Q-Learning for tasks like strategic obstacle placement.
 - **Performance Analysis**: Offers metrics and statistical analysis tools.
 
 Key agent behaviors:
-- **Separation**: Avoid collisions with nearby agents.
-- **Alignment**: Steer towards the average heading of local flockmates.
-- **Cohesion**: Move towards the average position of local flockmates.
-- **Obstacle Avoidance**: Navigate around static obstacles.
-- **Target Seeking**: Move towards a designated target location.
+- **separation**: Avoid collisions with nearby agents.
+- **alignment**: Steer towards the average heading of local flockmates.
+- **cohesion**: Move towards the average position of local flockmates.
+- **obstacle avoidance**: Navigate around static obstacles.
+- **target seeking**: Move towards a designated target location.
 
 ## Quick Start
 
