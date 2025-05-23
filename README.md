@@ -113,13 +113,3 @@ results = run_performance_analysis(
 **ML**: PyTorch-based Deep Q-Learning
 **Visualization**: Pygame with real-time controls
 **Analysis**: Statistical testing with scipy
-
-The implementation focuses on modularity and research applicability rather than performance optimization.
-
-## Future Extensions
-
-- 3D simulation environment
-- ROS integration for real robots
-- Advanced ML algorithms (PPO, A3C)
-- Multi-swarm coordination
-- Dynamic obstacle environments
