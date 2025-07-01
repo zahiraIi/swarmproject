@@ -1,4 +1,4 @@
-# Swarm Robotics Simulation
+# Swarm Robotics 
 
 developing robotic swarm navigation 
 
