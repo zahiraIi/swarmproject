@@ -1,6 +1,6 @@
 # Swarm Robotics Simulation
 
-python-based sim focusing on reinforcement learning
+developing robotic swarm navigation 
 
 ## Core Functionality
 
